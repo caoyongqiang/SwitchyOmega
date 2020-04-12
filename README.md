@@ -1,0 +1,2 @@
+# SwitchyOmega
+Options for SwitchyOmega
